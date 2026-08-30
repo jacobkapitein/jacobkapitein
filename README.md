@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 🎓 Graduated at Windesheim University of Applied Sciences
+
 💼 Working at Info Support B.V. as a Software Consultant
+
 🌱 Learning k8s
+
 
 ### Tech I work with
 
