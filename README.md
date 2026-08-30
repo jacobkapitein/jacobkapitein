@@ -8,6 +8,7 @@
 ### Tech I work with
 
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
